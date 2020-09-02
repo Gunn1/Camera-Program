@@ -1,0 +1,6 @@
+No Preset For AirServer Just screen 2
+Screen 2: 1
+Screen 1: 2
+white_board / screen2 : 3
+facecam: 4
+whiteboard: 5
